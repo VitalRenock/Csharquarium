@@ -1,0 +1,7 @@
+C:\Users\renau\OneDrive\Projets\Applications\Csharquarium\Csharquarium\bin\Debug\Csharquarium.exe.config
+C:\Users\renau\OneDrive\Projets\Applications\Csharquarium\Csharquarium\bin\Debug\Csharquarium.exe
+C:\Users\renau\OneDrive\Projets\Applications\Csharquarium\Csharquarium\bin\Debug\Csharquarium.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Csharquarium\Csharquarium\obj\Debug\Csharquarium.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\Applications\Csharquarium\Csharquarium\obj\Debug\Csharquarium.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\Csharquarium\Csharquarium\obj\Debug\Csharquarium.exe
+C:\Users\renau\OneDrive\Projets\Applications\Csharquarium\Csharquarium\obj\Debug\Csharquarium.pdb
